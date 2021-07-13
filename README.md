@@ -1,1 +1,2 @@
-# Sudoku-Solver
+# SudokuSolver
+Solving sudoku using backtracking 
